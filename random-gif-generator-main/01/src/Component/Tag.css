@@ -1,0 +1,28 @@
+.tag{
+    width:50vw;
+    border:2px solid red ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: skyblue;
+    align-items: center ;
+    row-gap: 50px;
+    border-radius: 10px;
+}
+.head2{
+    text-align: center  ;
+    padding-top: 10px;
+}
+input{
+    margin-top: 50px;
+    width: 573px;
+    height: 46px;
+    border-radius: 10px;
+    text-align: center;
+}
+button{
+    width: 573px;
+    height: 40px;
+    border-radius: 10px;
+}

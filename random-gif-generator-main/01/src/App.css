@@ -1,0 +1,35 @@
+
+*{
+ margin: 0;
+ box-sizing: border-box;
+ padding: 0;
+}
+
+.App{
+  background-image: radial-gradient(#ff0062 2.5px, transparent 2.5px), radial-gradient(#6f00ff 2.5px, transparent 2.5px);
+  background-size: 36px 36px;
+  background-position: 0 0, 18px 18px;
+  background-color: #b1d2ff;
+  width: 100vw;
+  min-height: 100vh;
+  ;
+  padding-top: 0.8em;
+  
+}
+.head{
+  width: 80vw;
+margin-left:150px ;
+margin-top: 50px;
+border: 2px solid red;
+  background-color: white;
+  text-align: center;
+text-transform: uppercase;
+border-radius: 15px;
+}
+.box{
+margin: 20px;
+align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
